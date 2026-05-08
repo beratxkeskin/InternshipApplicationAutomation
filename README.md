@@ -104,5 +104,4 @@ This project is licensed under the MIT License.
 
 ---
 **Berat Keskin**  
-*Software Engineering Student at Istanbul Atlas University*  
 [LinkedIn Profile](https://www.linkedin.com/in/berat-keskin-/)
