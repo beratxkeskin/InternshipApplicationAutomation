@@ -8,12 +8,10 @@ load_dotenv()
 def test_send():
     # Test edilecek mail listesi
     test_listesi = [
-       # {"mail": "bbbkeskin61@gmail.com", "isim": "Berat"},
-       # {"mail": "sifanrozdemir@gmail.com", "isim": "Şifanur"}
-        {"mail": "yyykeskin77@gmail.com", "isim": "SIĞIR"}
+       
     ]
     
-    cv_dosyasi = "CV - Berat Keskin (ENG).pdf"
+    cv_dosyasi = ""
     
     for kisi in test_listesi:
         print(f"Test maili gönderiliyor: {kisi['mail']} ({kisi['isim']})...")
