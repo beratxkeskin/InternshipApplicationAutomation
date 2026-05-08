@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Logs and sent history
+gonderilenler.log
+*.log
+
+# Data files (Private)
+istanbul_staj_listesi_mailli.csv
+istanbul_staj_listesi.csv
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
